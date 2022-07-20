@@ -24,3 +24,7 @@ Python also is used in different building science applications. Several examples
 Interested in thermal comfort, you should see the following resources: 
 * https://www.youtube.com/watch?v=NVdmuEdDUNM
 * https://www.sciencedirect.com/science/article/pii/S2352711020302910
+
+
+## Interesting Readings
+* https://towardsdatascience.com/feature-engineering-in-python-2fdb9bb8ee7a
