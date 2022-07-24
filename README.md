@@ -28,3 +28,9 @@ Interested in thermal comfort, you should see the following resources:
 
 ## Interesting Readings
 * https://towardsdatascience.com/feature-engineering-in-python-2fdb9bb8ee7a
+
+## Generating EnergyPlus Weather (EPW) files 
+* 'diyepw' is a python package to generate EPW files for a given location over a given historical period:
+* https://diyepw.readthedocs.io/en/latest/tutorial.html
+* https://joss.theoj.org/papers/10.21105/joss.03313
+
