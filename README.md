@@ -13,6 +13,9 @@ There are several platform for Python:
 
 An alternative approch is to use Colab: https://colab.research.google.com/
 
+Several good resources for plots are:
+https://matplotlib.org/stable/gallery/index.html
+
 
 ## Applications 
 Python also is used in different building science applications. Several examples are provided below:
