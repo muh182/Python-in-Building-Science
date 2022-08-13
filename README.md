@@ -7,7 +7,7 @@
 
 #### Code Editing and Graphical User Interfaces
 There are several platform for Python: 
-* [Sypder IDE[(https://www.spyder-ide.org/)
+* [Sypder IDE](https://www.spyder-ide.org/)
 * [Visual Studio Code](https://code.visualstudio.com/)
 
 An alternative approch is to use Google Colaboratory also known as [Colab](https://colab.research.google.com/). There are several good resources to show how to start using Colab:
