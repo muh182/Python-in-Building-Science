@@ -8,7 +8,7 @@
 #### GUI
 There are several platform for Python: 
 * https://www.spyder-ide.org/
-* 
+* Visual Studio Code <https://code.visualstudio.com/>
 
 
 An alternative approch is to use Colab: https://colab.research.google.com/
