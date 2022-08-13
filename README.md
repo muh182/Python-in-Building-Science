@@ -5,13 +5,15 @@
 ### Import Data
 
 
-#### GUI
+#### Code Editing and Graphical User Interfaces
 There are several platform for Python: 
-* https://www.spyder-ide.org/
-* Visual Studio Code <https://code.visualstudio.com/>
+* [Sypder IDE[(https://www.spyder-ide.org/)
+* [Visual Studio Code](https://code.visualstudio.com/)
 
+An alternative approch is to use Google Colaboratory also known as [Colab](https://colab.research.google.com/). There are several good resources to show how to start using Colab:
 
-An alternative approch is to use Colab: https://colab.research.google.com/
+https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c
+https://www.youtube.com/watch?v=i-HnvsehuSw
 
 Several good resources for plots are:
 https://matplotlib.org/stable/gallery/index.html
@@ -36,4 +38,8 @@ Interested in thermal comfort, you should see the following resources:
 * 'diyepw' is a python package to generate EPW files for a given location over a given historical period:
 * https://diyepw.readthedocs.io/en/latest/tutorial.html
 * https://joss.theoj.org/papers/10.21105/joss.03313
+
+## Download Hitorical Weather Data Files
+https://github.com/AKstudios/wunderground_api
+
 
