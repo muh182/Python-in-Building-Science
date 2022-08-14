@@ -44,4 +44,6 @@ Interested in thermal comfort, you should see the following resources:
 ## Download Hitorical Weather Data Files
 https://github.com/AKstudios/wunderground_api
 
+https://openweathermap.org/api
+
 
