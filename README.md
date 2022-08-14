@@ -15,7 +15,8 @@ An alternative approch is to use Google Colaboratory also known as [Colab](https
 ### Plotting
 
 Several good resources for plots are:
-https://matplotlib.org/stable/gallery/index.html
+* Example graphs using [matplotlib](https://matplotlib.org/stable/gallery/index.html)
+* How to add [subplots](https://jakevdp.github.io/PythonDataScienceHandbook/04.08-multiple-subplots.html)
 
 
 ## Applications 
