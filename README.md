@@ -46,4 +46,9 @@ https://github.com/AKstudios/wunderground_api
 
 https://openweathermap.org/api
 
+## Visualization
+Charts to avoid: 
+https://www.iflscience.com/heres-why-you-should-almost-never-use-a-pie-chart-for-your-data-72357
+
+
 
